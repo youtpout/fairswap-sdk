@@ -8,9 +8,9 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/youtpout/fairswap-sdk.git",
   "keywords": [
-    "uniswap",
+    "fairswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
